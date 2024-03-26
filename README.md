@@ -1,2 +1,3 @@
 # dtsci-100-project
 UBC Data Science 100 Course Project 
+Heart disease is currently the leading cause of death globally and the second leading in Canada (Statistics Canada, 2023; World Health Organization, 2020). It is associated with plaque buildup in arteries, which could result in heart attack, heart failure, or death. Various factors impact the likely-hood of heart disease (age, cholesterol, blood pressure), however, it is difficult to identify the specific cause. Thus, in better determining its primary contributing factors and improving diagnosis, we pose the question "**what measurable factors most strongly impact the occurrence of heart disease, and based on these factors, will a new patient have heart disease?**"
